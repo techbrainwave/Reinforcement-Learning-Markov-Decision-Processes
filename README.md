@@ -1,11 +1,19 @@
 ## 04 - Markov Decision Processes  
 
+### Open AI Gym 
+A toolkit for developing and comparing reinforcement learning (RL) algorithms from Open AI.
+
+
+### Algorithms
 1. Reinforcement Learning - QLearning (MDP)
 2. Policy Iteration (MDP)
 3. Value Iteration (MDP)
 
+### Problems
+1. Frozen Lake
 
-### Instructions:  
+
+### Instructions  
 
 1. URL: https://github.com/techbrainwave/CS7641-ML-Fall22-04-MarkovDecisionProcesses
 2. Click on "Code" 
@@ -14,21 +22,21 @@
 5. Run each of the python files individually using Python 3.7.
 
 
-### Results:  
+### Results  
 
 1. All results will be printed to the console including verbose, variations, MDP parameters and execution times.
 2. All the 100 plus graphs will be generated directly in the repository once the files are run successfully.
 
 
 
-#### Repository contents:  
+#### Repository contents  
 
 Experiment1.py    
 Experiment2.py    
 README.md    
 
 
-#### References:  
+#### References  
 
 1.	https://stackoverflow.com/questions/34997174/how-to-convert-list-of-model-objects-to-pandas-dataframe
 2.	https://medium.com/swlh/frozen-lake-as-a-markov-decision-process-1692815ecfd1
