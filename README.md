@@ -9,7 +9,7 @@ A toolkit for developing and comparing reinforcement learning (RL) algorithms fr
 2. Policy Iteration (MDP)
 3. Value Iteration (MDP)
 
-<img src="https://github.com/techbrainwave/CS7641-ML-Fall22-04-MarkovDecisionProcesses/blob/main/policy.png" alt="pca" width="300"/>
+<img src="https://github.com/techbrainwave/CS7641-ML-Fall22-04-MarkovDecisionProcesses/blob/main/policy.png" alt="pca" width="200"/>
 
 ## Problems
 * Frozen Lake (Open AI Gym)
